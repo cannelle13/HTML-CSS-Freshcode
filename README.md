@@ -23,4 +23,6 @@ My goal was to create a website layout that adheres to modern standards and has 
 
 The design of the website layout was provided by the educational center Freshcode. You can view the design at the following link: [Website Layout on Figma](https://www.figma.com/file/GlDZFF1nSYyOXBhOH3ACFo/%D0%A1%D0%B0%D0%B9%D1%82?type=design&node-id=0-44&mode=design&t=YUjTpiPlF17Q6WGY-0).
 
+My website has been published on [GitHub Pages](https://cannelle13.github.io/HTML-CSS-Freshcode) for your convenience.
+
 I would appreciate your comments and feedback on my work. Thank you to Freshcode for providing the opportunity to learn in this course and enhance my web development skills.
